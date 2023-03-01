@@ -13,7 +13,4 @@
 * thymeleaf
 * Lombok
 
-### 가이드
-* 초기 어드민 계정은 admin@fish.co.kr에 비밀번호는 없습니다.
-* api는 앱키를 발급받아 사용해야 합니다.
 
